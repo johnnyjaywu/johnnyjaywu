@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Johnny (Jay) Wu</h1>
-<h3 align="center">A passionate full-stack software engineer</h3>
+<h3 align="center">Full-stack software engineer</h3>
 
-- 🔭 I’m currently working on **100Devs**
+Accomplished full-stack software engineer with game development experience. I combine creativity with technical expertise to deliver impactful projects. Proficient in frontend and backend technologies, I design scalable architectures and implement efficient solutions that enhance user experience. Thrives in collaborative environments leveraging version control and continuous integration skills.
 
-- 🌱 I’m currently learning **JavaScript**
-
-- 👨‍💻 All of my projects are available at [https://johnnyjaywu.github.io/portfolio](https://johnnyjaywu.github.io/portfolio)
-
-- 📫 How to reach me **johnnyjaywu@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing](https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing)
+See my [portfolio](https://johnnyjaywu.github.io/portfolio) or [resume](https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
