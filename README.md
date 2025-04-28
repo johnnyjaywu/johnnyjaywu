@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johnny (Jay) Wu</h1>
 <h3 align="center">Full-stack software engineer</h3>
 
-Accomplished full-stack software engineer with game development experience. I combine creativity with technical expertise to deliver impactful projects. Proficient in frontend and backend technologies, I design scalable architectures and implement efficient solutions that enhance user experience. Thrives in collaborative environments leveraging version control and continuous integration skills.
+A software engineer with a distinctive background in game development, I bring a creative and technically rigorous approach to building impactful solutions. Proficient in a variety of programming languages and frameworks, I specialize in designing scalable architectures and implementing efficient systems that elevate user experiences. My game development experience has honed my meticulous attention to detail and ability to navigate complex challenges. I thrive in collaborative environments, leveraging strong communication, organizational skills, and familiarity with project management tools, version control, and continuous integration to ensure successful project delivery. I am a continuous learner, committed to embracing new ideas and technologies.
 
 See my [portfolio](https://johnnyjaywu.github.io/portfolio) or [resume](https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing)
 
