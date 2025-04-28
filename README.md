@@ -3,7 +3,7 @@
 
 A software engineer with a distinctive background in game development, I bring a creative and technically rigorous approach to building impactful solutions. Proficient in a variety of programming languages and frameworks, I specialize in designing scalable architectures and implementing efficient systems that elevate user experiences. My game development experience has honed my meticulous attention to detail and ability to navigate complex challenges. I thrive in collaborative environments, leveraging strong communication, organizational skills, and familiarity with project management tools, version control, and continuous integration to ensure successful project delivery. I am a continuous learner, committed to embracing new ideas and technologies.
 
-See my [portfolio](https://johnnyjaywu.github.io/portfolio) or [resume](https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing)
+See my [portfolio](https://johnnyjaywu.github.io/portfolio) <!-- or [resume](https://docs.google.com/document/d/1Ex1MM1ATuat0G3QWN2pH3eNsn9ax3wknvkSZqMlqC2c/edit?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
